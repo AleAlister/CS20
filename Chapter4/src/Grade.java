@@ -41,7 +41,7 @@ public class Grade {
 			System.out.println("Enter a real grade!!");
 		}
 	
-	//Hello
+	   Scan.close();
 	
 	
 	}

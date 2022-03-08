@@ -50,6 +50,8 @@ public class Printing {
 			System.out.print("The total cost is: " + total);
 		}
 
+		
+		Scan.close();
 	}
 
 }
