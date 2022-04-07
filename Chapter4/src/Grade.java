@@ -44,6 +44,14 @@ public class Grade {
 	   Scan.close();
 	
 	
-	}
+	}// End class
 
 }
+
+/*
+ * Please enter the grade you recived: 89
+The corresponding letter for your grade is B
+
+Please enter the grade you recived: 98
+The corresponding letter for your grade is A!
+*/

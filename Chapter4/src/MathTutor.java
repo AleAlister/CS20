@@ -40,6 +40,17 @@ public class MathTutor {
 
 	      
 	      Scan.close();
-	}
+	}//End class
 
 }
+
+
+/*
+What is the answer to the following problem?
+7 + 76 = ? 81
+Sorry, wrong answer. The correct answer is 83
+
+What is the answer to the following problem?
+27 + 90 = ? 117
+Correct!
+*/

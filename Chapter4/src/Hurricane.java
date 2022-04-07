@@ -42,7 +42,7 @@ public class Hurricane {
 		}
 		
 		Scan.close();
-}
+}//end class
 }
 
 
