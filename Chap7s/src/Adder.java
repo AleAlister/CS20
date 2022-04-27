@@ -107,20 +107,22 @@ public class Adder {
 }//End 
 
 
-/*Please solve this question: 5 + 15
-20
+/*Please solve this question: 2 + 1
+3
 You have 5 Points
-Please solve this question: 7 + 4
-11
+Please solve this question: 6 + 12
+18
 You have 10 Points
-Please solve this question: 14 + 14
-28
+Please solve this question: 15 + 11
+26
 You have 15 Points
-Please solve this question: 5 + 13
-11
-You have 13 Points
-Please solve this question: 13 + 12
-25
-You have 18 Points
-Please solve this question: 4 + 14
+Please solve this question: 6 + 7
+13
+You have 20 Points
+Please solve this question: 17 + 6
+23
+You have 25 Points
+Please solve this question: 10 + 18
+-1
+
 */
