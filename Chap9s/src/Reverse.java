@@ -30,7 +30,7 @@ public class Reverse {
     for(int i=CD.length-1;i>=0;i--)//Traversing 
     System.out.print(CD[i] + "  ");//Display
 	
-	}
+	} 
 	
 	
 	}//End Class
